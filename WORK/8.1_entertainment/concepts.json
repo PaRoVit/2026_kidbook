@@ -92,22 +92,6 @@
       "article_llm": "GigaChat"
     },
     {
-      "id": "8.1_entertainment/film",
-      "description": "О фильмах — искусстве кинематографа, истории кино, жанрах и влиянии фильмов на культуру",
-      "lemmas": [
-        "фильм",
-        "кино",
-        "актёр",
-        "режиссёр",
-        "сценарий"
-      ],
-      "name": "film",
-      "file": "8.1_entertainment/film.md",
-      "wikidata_id": "Q11424",
-      "author": "Глушко Игорь",
-      "article_llm": "GigaChat"
-    },
-    {
       "id": "8.1_entertainment/animation",
       "description": "О мультфильмах — анимационном искусстве, его техниках, истории и любимых мультфильмах мира",
       "lemmas": [
@@ -152,22 +136,6 @@
       "name": "cinema",
       "file": "8.1_entertainment/cinema.md",
       "wikidata_id": "Q5398426",
-      "author": "Хабирова Амина",
-      "article_llm": "GigaChat"
-    },
-    {
-      "id": "8.1_entertainment/vfx",
-      "description": "О спецэффектах в кино — компьютерной графике, практических эффектах и магии киноиндустрии",
-      "lemmas": [
-        "спецэффекты",
-        "визуальные эффекты",
-        "компьютерная графика",
-        "CGI",
-        "трюки"
-      ],
-      "name": "vfx",
-      "file": "8.1_entertainment/vfx.md",
-      "wikidata_id": "Q180985",
       "author": "Хабирова Амина",
       "article_llm": "GigaChat"
     },
@@ -316,30 +284,34 @@
       "article_llm": "GigaChat"
     },
     {
-      "id": "8.1_entertainment/soundtrack",
-      "description": "О саундтреках — музыке к фильмам и играм, которая создаёт настроение и делает истории незабываемыми",
+      "id": "8.1_entertainment/movie",
+      "description": "Статья рассказывает о понятии фильма.",
       "lemmas": [
-        "саундтрек",
-        "музыка к фильму",
-        "музыкальное сопровождение",
-        "OST",
-        "тема фильма"
+        "фильм",
+        "жанр",
+        "фантастика",
+        "приключения",
+        "фэнтези",
+        "драма",
+        "комедия",
+        "ужасы",
+        "триллер"
       ],
-      "name": "soundtrack",
-      "file": "8.1_entertainment/soundtrack.md",
-      "wikidata_id": "Q492264",
-      "author": "Канева Юлия",
+      "name": "Фильм",
+      "file": "8.1_entertainment/movie.md",
+      "wikidata_id": "Q11424",
+      "author": "Ecodrin",
       "article_llm": "GigaChat"
     },
     {
       "id": "8.1_entertainment/montage",
-      "description": "О монтаже в кино, его видах и истории развития",
+      "description": "О монтаже, его видах",
       "lemmas": [
         "монтаж",
         "киномонтаж",
         "кадр"
       ],
-      "name": "montage",
+      "name": "Монтаж в кино",
       "file": "8.1_entertainment/montage.md",
       "wikidata_id": "Q237893",
       "author": "Ecodrin",
@@ -347,7 +319,7 @@
     },
     {
       "id": "8.1_entertainment/special_effects",
-      "description": "О спецэффектах в кино, их видах и истории появления",
+      "description": "О спецэффектах в кино, их видах и истории появления.",
       "lemmas": [
         "спецэффект",
         "CGI",
@@ -355,7 +327,7 @@
         "хромакей",
         "декорации"
       ],
-      "name": "special_effects",
+      "name": "Спецэффекты в кино",
       "file": "8.1_entertainment/special_effects.md",
       "wikidata_id": "Q8317",
       "author": "Ecodrin",
@@ -363,30 +335,42 @@
     },
     {
       "id": "8.1_entertainment/script",
-      "description": "Что такое сценарий, кто его делает и зачем он нужен в кино",
+      "description": "Что такой сценарий. Кто его делает и зачем он.",
       "lemmas": [
         "сценарий",
         "сценарист",
         "эпизод",
         "раскадровка"
       ],
-      "name": "script",
+      "name": "Сценарий",
       "file": "8.1_entertainment/script.md",
       "wikidata_id": "Q103076",
-      "author": "Фролов Матвей",
+      "author": "anxiousss",
       "article_llm": "GigaChat"
     },
     {
       "id": "8.1_entertainment/director",
-      "description": "О роли режиссёра в создании фильма, его задачах и творческом видении",
+      "description": "О роли режиссёра в создании фильма, его задачах и творческом видении.",
       "lemmas": [
         "режиссёр",
         "постановка"
       ],
-      "name": "director",
+      "name": "Режиссёр",
       "file": "8.1_entertainment/director.md",
       "wikidata_id": "P57",
-      "author": "Фролов Матвей",
+      "author": "anxiousss",
+      "article_llm": "GigaChat"
+    },
+    {
+      "id": "8.1_entertainment/soundtrack",
+      "description": "О саундтреках в кино, их роли, создании и известных композиторах.",
+      "lemmas": [
+        "саундтрек"
+      ],
+      "name": "Саундтрек",
+      "file": "8.1_entertainment/soundtrack.md",
+      "wikidata_id": "Q217199",
+      "author": "anxiousss",
       "article_llm": "GigaChat"
     }
   ]
